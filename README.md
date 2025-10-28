@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Personal Portfolio](https://github.com/Habibba08/Personal-Portfolio)
 
-- 🌱 I’m currently learning **Python, React.js**
+- 🌱 I’m currently learning **Python, Excel , SQL**
 
 - 📫 How to reach me **umehabibba08@gmail.com**
 
